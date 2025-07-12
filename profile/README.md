@@ -1,4 +1,4 @@
-# 🛡️ Project Shield
+# Project Shield
 
 **Project Shield** is an open-source initiative to build a modern, secure, and extensible API Gateway from the ground up.
 
